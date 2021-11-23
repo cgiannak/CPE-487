@@ -1,1 +1,1 @@
-Lab 1
+For lab 1, I ran both the LED Decoder, and the Hex Counter on the NEXYS 4 DDR board. In running the LED Decoder I learned how to set up a new project in Vivado. In addition, It helped me to get a better understanding of what Grey code is. The Hex Count code built on the LED Decoder code by having the board count in Hex, instead of having to manually input the value of each display. After doing the lab, I looked over the diagrams above the instructions and although I didn't understand everything, I started to see how each segment of a display was turned on and off.

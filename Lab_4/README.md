@@ -1,1 +1,1 @@
-
+For lab 4, I used what I had learned from the lab 1 displays, and added it to an input so that I the program would display specific numbers and manipulate them, instead of counting up sequentially. By comparing the base code with the modifications we were provided, I figured out how the leading zero supression worked within the code by using what basically amounts to a bunch of "if" statements in the form of "when", "else" checks.

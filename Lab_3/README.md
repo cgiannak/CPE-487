@@ -1,1 +1,1 @@
-
+For lab 3, I created and ran vgaball on the FPGA, and had it display a moving ball on a monitor that changed directions whenever it hit a side of the screen. This lab, and particularly comparing the modifications to the base code, helped me understand how to change the color of things displayed on a monitor, as well as how to alter their shapes (to an extent). 

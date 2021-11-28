@@ -1,1 +1,1 @@
-
+For lab 5, I learned how to output waveforms in the form of a siren as opposed to bits of data displayed as hex numbers. Although I didn't understand how the switches on the board affected the wailing speed at first, after going through the code, I think I at least have some understanding of how they affect it. 

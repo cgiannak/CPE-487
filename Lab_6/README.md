@@ -1,1 +1,1 @@
-
+For lab 6, I learned how collision detection works between two objects on a screen (via using location points rather than the sprites themselves). This lab built on what I learned from labs 1 and 3 to create a ball that bounced off of walls and increased a counter on the board whenever it collided with a paddle. After completing the modifications listed in the github, I tried my own modifications to change the color of the ball to more closely resemble the white background in order to make it more difficult. 

@@ -124,7 +124,7 @@ begin
     u <= '1';
     wait for 1 ns;         
       
-    assert false report "reached end of test";
+    assert false report "Reached end of test";
     wait;
   end process;
     

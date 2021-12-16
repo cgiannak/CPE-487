@@ -129,3 +129,5 @@ begin
   end process;
     
 end test;
+
+-- from "https://www.csee.umbc.edu/portal/help/VHDL/samples/samples.shtml#sqrt8" 
